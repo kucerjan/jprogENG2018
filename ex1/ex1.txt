@@ -1,0 +1,12 @@
+https://tinyurl.com/y82c5ym5
+
+1) Write a method that reads two numbers (from standard input) and prints the sum, difference,  product, quotient…: a+b, a-b, a/b, a*b  
+2) Write a method that for a given radius computes the area of a circle and its perimeter. Format the output to 3 digits after the decimal point.
+3) Write a method that for a given integer number of interval <1,7> returns the name of day in the week: Monday,...,Sunday.
+... for all the upper three exercises write also a program that demonstrates the usage of your new methods
+4) Write a program that reads the integer numbers from stdin (one number per line). Input ends with a single zero being entered.
+   The program computes:
+	-arithmetic average, or prints an error if unable to compute
+	-prints the second biggest and second smallest element
+	-figures out a type of entered sequence (constant,increasing,non-increasing,decreasing, non-decreasing)
+5) Write a program that computes a prime factorization of a given number.
