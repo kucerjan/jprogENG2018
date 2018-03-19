@@ -1,11 +1,11 @@
 1. Write a method that prints the content of an integer array.
 2. Write a method that fills an array with integer numbers starting with 1 to the length of an array with a given increment.
-3. Write a method that fills an array with random integers og given interval.
-4. The same as 3. but let an array be two-dimmensional.
-5. Write a method that prints the content of a two-dimmensional integer array.
+3. Write a method that fills an array with random integers of given interval.
+4. The same as 3. but let an array be two-dimensional.
+5. Write a method that prints the content of a two-dimensional integer array.
 6. Write a method that sorts an array of integers (do not use library sorting, write your own)
 
-Womework:
+Homework:
 Write a method that enlarges a given array of floats by adding the arithmetic mean between every two elements.
 
 
